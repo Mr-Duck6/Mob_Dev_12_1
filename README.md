@@ -115,3 +115,6 @@ flutter test
 flutter test test/unit/models/student_test.dart
 flutter test test/unit/services/grade_calculator_test.dart
 flutter test test/unit/services/course_manager_test.dart
+
+## AI
+Під час виконання ШІ не був використовуваний.
